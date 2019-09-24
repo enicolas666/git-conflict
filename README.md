@@ -1,3 +1,4 @@
+ericnicolas
 # Handling `git` conflicts
 
 When using a source control software like `git`, conflicts **always** arise at some point. It's just a matter of time. Let's use this exercise to understand the scenarios which always lead to conflict. Knowing that will help prevent the conflicts! Of course, we will also cover how to deal with a conflict.
@@ -166,7 +167,9 @@ Before you jump to the next exercise, let's mark your progress with the followin
 ```bash
 cd ~/code/<user.github_nickname>/reboot-python
 cd 02-Best-Practices/02-Conflicts
+
 touch DONE.md
 git add DONE.md && git commit -m "02-Best-Practices/02-Conflicts done"
 git push origin master
 ```
+# git-conflict
