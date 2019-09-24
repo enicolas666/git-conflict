@@ -1,3 +1,4 @@
+feature-b
 # Handling `git` conflicts
 
 When using a source control software like `git`, conflicts **always** arise at some point. It's just a matter of time. Let's use this exercise to understand the scenarios which always lead to conflict. Knowing that will help prevent the conflicts! Of course, we will also cover how to deal with a conflict.
